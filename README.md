@@ -1,2 +1,2 @@
 # rockPaperScissor
-40 Days Python Coding Challenge
+* 20th Day
